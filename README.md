@@ -10,7 +10,7 @@
 
 # Стек
 
-tensorflow
+tensorflow, keras
 
 # Результат
 
